@@ -2,4 +2,9 @@
 **/.idea
 **/__pycache__
 .DS_Store
-CVC/Meetup*
+CVC/train
+CVC/train_annotation
+CVC/validation
+CVC/validation_annotation
+CVC/VOCdevkit
+CVC/Meetup Presentation.ipynb
